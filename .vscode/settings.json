@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "solidity.formatter": "forge",
+  "solidity.telemetry": false
+}
