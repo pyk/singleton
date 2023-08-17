@@ -4,7 +4,7 @@ pragma solidity 0.8.17;
 import {IERC20} from "oz/interfaces/IERC20.sol";
 import {Test} from "forge-std/Test.sol";
 
-import {Singleton} from "src/Singleton.sol";
+import {Singleton} from "../src/Singleton.sol";
 import {
   FlashLoanBorrowerInvalid,
   FlashLoanBorrowerValid
